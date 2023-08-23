@@ -1,0 +1,36 @@
+form{
+	text-align: center;
+}
+label{
+	font-weight: bold;
+	color:yellow;
+	text-shadow: 4px 2px 7px #000;
+	font-family:arial;
+}
+input{
+	text-align: center;
+	border-radius:5px;
+	outline: none;
+	margin-top: 5px;
+	background-color:rgba(255,255,255,.5);
+}
+textarea{
+	width: 400px;
+	height: 150px;
+	background-color:rgba(255,255,255,.5);
+}
+fieldset{
+	position: relative;
+	left: 10%;
+}
+button{
+	position: relative;
+	padding: 5px;
+	float: left;
+	margin-left:65px; 
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-radius: 7px;
+	background: linear-gradient(to bottom, #ffffff 0%,#f3f3f3 42%,#ededed 55%,#ffffff 100%); 
+	cursor: pointer;
+}
