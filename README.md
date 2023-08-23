@@ -6,3 +6,16 @@ Essa atividade era o PI(Projeto integrador), era um tipo de repescagem para os a
 ## o que pedia o projeto
 
 O projeto consistia em criar um pequeno site simples, com algumas páginas em HTML já que o modulo era em FrontEnd. A gente tinha a simulação de que uma empresa de quer criar um mostruário para seus clientes, onde era possível realizer orçamento, sem que ouvesse a necessidade de comprar os produtos. Para a comprar era necessário entrar com eles.
+
+## Technologies used
+<ul>
+  <li>HTML</li>
+  <li>CSS3</li>
+  <li>JavaScript</li>
+</ul>
+
+
+## Preview interface
+<div>
+  <image src='imagens/screncapture.png'/>
+</div>
